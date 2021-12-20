@@ -12,7 +12,7 @@ h3
   padding: 200px 0px
 }
 .image-section {
-background-image: url("C:/Users/apnfr/Documents/Egna projekt/Sanna julklapp/Images/christmas.jpg");
+background-image: url("./Images/christmas.jpg");
 background-size: cover;
 }
 .main-heading {
