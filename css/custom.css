@@ -1,0 +1,65 @@
+body {
+  font-family: 'Open sans';
+  text-align:center
+}
+h3
+{
+  font-size: 2rem
+}
+
+/* TITLE */
+#Title{
+  padding: 200px 0px
+}
+.image-section {
+background-image: url("C:/Users/apnfr/Documents/Egna projekt/Sanna julklapp/Images/christmas.jpg");
+background-size: cover;
+}
+.main-heading {
+    font-family: 'Twinkle Star';
+    font-style: italic;
+    font-size: 5rem;
+    color: white;
+    font-weight: 900
+
+}
+.p-title {
+  font-size: 2rem;
+color: white
+}
+.features {
+  margin: 100px 100px;
+  text-align:center
+}
+
+.icon {
+  margin: 40px 0 40px
+
+}
+
+.fa-surprise{
+color: #781D42
+}
+
+.fa-hippo {
+color: #781D42
+}
+
+.fa-gift {
+  color: #781D42
+}
+
+.icon-click {
+  -webkit-text-fill-color: transparent;
+  -webkit-background-clip: text;
+  background-image: linear-gradient(to right, #A3423C, #DE834D, #F0D290 );
+}
+.colored-section {
+background-color: #781D42;
+padding:200px 0 100px;
+}
+.klicka {
+  text-decoration: none;
+  color:white;
+  font-family: 'Twinkle Star';
+}
